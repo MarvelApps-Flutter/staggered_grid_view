@@ -1,0 +1,27 @@
+class DummyData {
+  List<String> imagesList = [
+    "https://wallpaper.dog/large/10839283.jpg",
+    "https://cdn.wallpapersafari.com/2/3/8Tdtag.jpg",
+    "https://i.pinimg.com/originals/24/1c/0e/241c0e1f71ec48f6b8eb958b421b062f.jpg",
+    "https://wallpaperaccess.com/full/327386.jpg",
+    "https://wallpapercave.com/wp/wp3788126.jpg",
+    "https://wallpaper.dog/large/1001.jpg",
+    "https://i.pinimg.com/474x/e7/c9/2a/e7c92ada78d8ce5830ecea0f78496a63.jpg",
+    "https://wallpaper.dog/large/10970568.jpg",
+    "https://i.pinimg.com/474x/e7/c9/2a/e7c92ada78d8ce5830ecea0f78496a63.jpg",
+    "https://i.pinimg.com/474x/a4/2a/4d/a42a4dd5b716057f841d021df2d3245b.jpg",
+    "https://i.pinimg.com/736x/3d/52/2a/3d522a99b37e02824e202c0714e92947.jpg",
+    "https://i.pinimg.com/474x/c6/8d/3e/c68d3e557942044d98fb1af987bb98b3.jpg",
+    "https://i.pinimg.com/474x/2e/3a/a2/2e3aa22b16cd2d66af021fb9940d3853.jpg",
+    "https://i.pinimg.com/474x/fc/dc/b3/fcdcb3c4e042c669f263e256594c89d3.jpg",
+    "https://i.pinimg.com/474x/1d/e5/c5/1de5c53f49de8ff5fcc9c13819049469.jpg",
+    "https://i.pinimg.com/474x/ac/9a/97/ac9a97c068975f27926447788580b059.jpg",
+    "https://i.pinimg.com/474x/2a/f1/e0/2af1e0c3ff39f2549fe841182c37b4bc.jpg",
+    "https://i.pinimg.com/474x/67/91/62/6791625245d0c28437de4f37f577553e.jpg",
+    "https://i.pinimg.com/474x/94/9b/7d/949b7dc4d5b96f36afca7259652802b0.jpg",
+    "https://i.pinimg.com/474x/7a/1c/25/7a1c255eb2ebe465c34815244434f53a.jpg",
+    "https://i.pinimg.com/474x/3e/8b/80/3e8b80a3bc48bf0812f886a3c6c15f2f.jpg",
+    "https://i.pinimg.com/474x/fa/71/81/fa718138f24e66c02fcc153e0b0ca2a8.jpg",
+    "https://i.pinimg.com/474x/2f/38/2b/2f382b59cdf06ec1bc645bc2c716f14a.jpg",
+  ];
+}

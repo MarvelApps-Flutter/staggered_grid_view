@@ -6,7 +6,7 @@ A flutter app demonstrating the use of Staggered Grid View using a simple UI.
 # Demo
   <table>
   <tr>
-  <td><img src="https://github.com/MarvelApps-Flutter/staggered_grid_view/blob/master/staggered_gridview_module/.gif" height="480px"></td>
+  <td><img src="https://github.com/MarvelApps-Flutter/staggered_grid_view/blob/master/working_demo/staggered_gridview_module.gif" height="480px"></td>
     </tr>
   </table>
 

@@ -1,4 +1,4 @@
-# staggered_gridview_module
+# Staggered Gridview Module
 
 A flutter app demonstrating the use of Staggered Grid View using a simple UI.
 
